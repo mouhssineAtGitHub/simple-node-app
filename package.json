@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "simple node app",
+  "main": "my-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mouhssine",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.2"
+  }
+}
